@@ -1,0 +1,7 @@
+add to git repo by git add, and delete me(open_READ_me)
+
+* write a func user_choice() and computer_choice()
+in different function and return their choices
+
+* make computer_input random , and make game_checker func to
+check win or loss
